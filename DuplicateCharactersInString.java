@@ -38,3 +38,10 @@ public class DuplicateCharactersInString {
 
 	}
 }
+
+output==
+Duplicate Characters In PriyaPiyu
+P : 2
+i : 2
+y : 2
+
